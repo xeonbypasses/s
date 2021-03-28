@@ -1,6 +1,6 @@
 Steps for the working 2021 Suspicious Login Attempt Bypass
 
-(Anti Virus must be disabled)
+(Disable AV before installation)
 
 Requirements: 
 
